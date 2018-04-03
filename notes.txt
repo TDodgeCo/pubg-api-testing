@@ -1,0 +1,2 @@
+You try searching by their PUBG name to get the ID?
+Something along: https://api.playbattlegrounds.com/shards/xbox-na/players?filter[playerNames]=PUBGName
